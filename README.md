@@ -1,1 +1,1 @@
-# nuxt_tutorial
+# vue-crud-nuxt
